@@ -58,4 +58,3 @@ int main() {
   arr = nullptr;
   return 0;
 }
-
